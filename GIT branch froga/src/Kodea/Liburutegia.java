@@ -6,5 +6,5 @@ public class Liburutegia {
 		String izena;
 		String helbidea;
 		int ikasleKop;
-		ArrayList<Liburua> Liburuak;
+		ArrayList<Liburua> liburuak;
 }
