@@ -5,6 +5,6 @@ import java.util.ArrayList;
 public class Liburutegia {
 		String izena;
 		String helbidea;
-		int ikasleKop;
+		int ikasle_Kop;
 		ArrayList<Liburua> liburuak;
 }
