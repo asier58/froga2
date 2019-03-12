@@ -5,8 +5,8 @@ public class Liburua {
 	String isbn;
 	int orriKop;
 	
-	
-	
+	//kaixo 
+	     
 	public String getIzenburua() {
 		return izenburua;
 		
