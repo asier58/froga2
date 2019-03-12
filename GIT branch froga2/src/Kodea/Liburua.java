@@ -6,7 +6,7 @@ public class Liburua {
 	int orriKop;
 	
 	//kaixo 
-	     
+	     //peneeeee
 	public String getIzenburua() {
 		return izenburua;
 		
